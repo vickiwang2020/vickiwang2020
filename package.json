@@ -1,5 +1,5 @@
 {
-  "name": "minimal-mistakes",
+  "name": "vikipedias",
   "private": true,
   "version": "4.24.0",
   "description": "Minimal Mistakes 2 column Jekyll theme.",
@@ -12,7 +12,7 @@
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": "Vicki Wang",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mmistakes/minimal-mistakes/issues"
