@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Vikipedias"
 title_separator          : "-"
-subtitle                 : Data Analysis | APP Development | BI Report
+subtitle                 : "Data Analysis | APP Development | BI Report"
 name                     : "Vicki"
 description              : "Data is the key."
 url                      : "vikipedias.com"
